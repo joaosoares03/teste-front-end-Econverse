@@ -1,0 +1,16 @@
+.categories {
+    padding: 40px 0;
+  }
+  
+  .categories-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 20px;
+  }
+  
+  .category {
+    text-align: center;
+  }
+  
+  /* Outros estilos de categorias */
+  

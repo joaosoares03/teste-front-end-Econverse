@@ -1,0 +1,25 @@
+.header {
+    background-color: #fff;
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 100px;
+  }
+  
+  .search input {
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+  }
+  
+  /* Outros estilos do header */
+  
